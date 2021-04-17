@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @profbiot
 - 👀 I’m interested in bioinformatics and data visualization
-- 💞️ I’m looking to collaborate on next-gen sequencing and data science projects
+- ✨ I’m looking to collaborate on next-gen sequencing and data science projects
 - 📫 Reach me at jkaufman@endicott.edu
 
 <!---
